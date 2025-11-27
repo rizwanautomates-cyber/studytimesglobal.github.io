@@ -3,7 +3,7 @@ import { Destination, Service, Testimonial } from './types';
 export const COMPANY_NAME = "StudyTimes Global Consultants";
 export const COMPANY_PHONE = "+923358710682";
 export const COMPANY_ADDRESS = "Opposite WAPDA House, Sargogdha Road Near Shaheen Chowk, Gujrat";
-export const COMPANY_EMAIL = "info@studytimes.com";
+export const COMPANY_EMAIL = "info.studytimesglobal@gmail.com";
 
 export const DESTINATIONS: Destination[] = [
   {
